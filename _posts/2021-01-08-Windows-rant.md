@@ -28,7 +28,7 @@ After that very bad first impression, I discovered something called Windows 10 L
 
 ![Windows 10](/images/2021-01-08-Windows-rant/win10.jpg)
 
-Oh, god. This is where it really starts hurting. I have too many questions about this image. It feels familiar yet so different. To many things are wrong about that picture. Why is the system theme dark, but some dialogs are light ? Why is the bottom bar so thicc ? Why the heck are the windows controls on the right ? Why does the OS + Visual Studio (more on that later too) weighs almost 30 GB ? Why is the taskbar on the bottom ? Why can't I create tabs in the file explorer ?
+Oh, god. This is where it really starts hurting. I have too many questions about this image. It feels familiar yet so different. Too many things are wrong about that picture. Why is the system theme dark, but some dialogs are light ? Why is the bottom bar so thicc ? Why the heck are the windows controls on the right ? Why does the OS + Visual Studio (more on that later too) weighs almost 30 GB ? Why is the taskbar on the bottom ? Why can't I create tabs in the file explorer ?
 
 Don't get me wrong, some of those issues can be fixed with tweaks and black magic (putting the taskbar on the left + reducing its size with a tweak works well enough) but this should be addressed by Microsoft. All of these issues have been fixed in every major GNU/Linux DE a decade ago. My GTK theme applies on EVERYTHING, why isn't Windows coherent about light / dark mode, especially on system dialogs like the property dialog shown here ?
 
